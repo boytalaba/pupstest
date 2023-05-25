@@ -1,0 +1,22 @@
+{
+  "CONTRACT_ADDRESS": "0x4c411956Bd334013043E659c179A1a15de5C4945",
+  "SCAN_LINK": "https://scan.pulsechain.com/token/0x4c411956Bd334013043E659c179A1a15de5C4945/token-transfers",
+  "NETWORK": {
+    "NAME": "Pulse Chain",
+    "SYMBOL": "PLS",
+    "ID": 369
+  },
+  "NFT_NAME": "The Pups",
+  "SYMBOL": "The Pups",
+  "MAX_SUPPLY": 1000,
+  "DISPLAY_COST": 100000,
+  "WEI_COST": "10000000000000000000",
+  "GAS_LIMIT": 285000,
+  "MAX_PER_TX": 10,
+  "MARKETPLACE": "",
+  "MARKETPLACE_LINK": "",
+  "Telegram": "",
+  "Discord": "",
+  "Twitter": "",
+  "SHOW_BACKGROUND": false
+}
